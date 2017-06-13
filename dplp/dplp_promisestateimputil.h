@@ -19,6 +19,7 @@
 #include <dplm20_overload.h>
 #include <dplp_promisestateimp.h>
 
+#include <functional>
 #include <experimental/tuple>  // std::experimental::apply
 #include <mutex>               // std::lock_guard, std::mutex
 
